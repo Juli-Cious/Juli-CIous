@@ -5,14 +5,35 @@
   </samp>
 </div>
 
+<div>
+  
+</div>
+
 <div align="center">
-  <details>
+    <details>
     <summary>☰ More Details </summary>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  </details>
+      <p>
+        <a href="https://github.com/Juli-Cious?tab=repositories&q=&type=&language=c++" target="_blank">
+          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+        </a>
+        <a href="https://github.com/Juli-Cious?tab=repositories&q=&type=&language=c" target="_blank">
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+        </a>
+        <a href="https://github.com/Juli-Cious?tab=repositories&q=&type=&language=java" target="_blank">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+        </a>
+        <a href="https://github.com/Juli-Cious?tab=repositories&q=&type=&language=python"" target="_blank">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        </a>
+        <a href="https://github.com/Juli-Cious?tab=repositories&q=&type=&language=javascript"" target="_blank">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+        </a>
+        <a href="https://github.com/Juli-Cious?tab=repositories&q=&type=&language=typescript"" target="_blank">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+        </a>
+        <a href="https://github.com/Juli-Cious?tab=repositories&q=&type=&language=kotlin" target="_blank">
+          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+        </a>
+      </p>
+    </details>
 </div>
