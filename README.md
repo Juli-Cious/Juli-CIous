@@ -1,12 +1,14 @@
 <div align="center">
   <samp>
-    <h3>Hi there, I'm Julius!</h3>
+    <h3>Hi there, I'm Julius Lim!</h3>
     <p>2nd Year Software Engineering Student @ 🐅🛡️University of Malaya🛡️🐅</p>
   </samp>
 </div>
 
 <div align="center">
+  <a href="https://www.youtube.com/watch?v=FRMX_U6BZTg" target="_blank">
   <img src="chito.jpg" width="200" alt="Chito">
+  </a>
   <p>&nbsp;</p>
   <samp>
     <p>I am a software developer driven by curiosity and a love for understanding things at a fundamental level. When I'm not playing games, 
@@ -30,7 +32,10 @@
       </p>
       <p>
         <a href="https://julius-web-portfolio.vercel.app/" target="_blank"><samp>Check out my website!</samp></a>
-        <p><samp><small>(Not really mobile friendly, will work on that soon)</small></samp></p>
+        <p><samp>(Not really mobile friendly, will work on that soon)</samp></p>
       </p>
+      <img src="bonk.gif" width="20%">  
     </details>
 </div>
+
+
