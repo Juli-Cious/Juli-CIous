@@ -1,11 +1,13 @@
 <div align="center">
-  <h3>Hi there, I'm Julius!</h3>
-  <p>2nd Year Software Engineering Student @ 🐅🛡️University of Malaya🛡️🐅</p>
+  <samp>
+    <h3>Hi there, I'm Julius!</h3>
+    <p>2nd Year Software Engineering Student @ 🐅🛡️University of Malaya🛡️🐅</p>
+  </samp>
 </div>
 
 <div align="center">
   <details>
-    <summary>══ Details About Me ══</summary>
+    <summary>☰<samp>Details About Me</samp></summary>
     
   </details>
 </div>
