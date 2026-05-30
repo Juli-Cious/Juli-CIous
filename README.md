@@ -34,7 +34,7 @@
         <a href="https://julius-web-portfolio.vercel.app/" target="_blank"><samp>Check out my website!</samp></a>
         <p><samp>(Not really mobile friendly, will work on that soon)</samp></p>
       </p>
-      <img src="bonk.gif" width="20%">  
+      <img src="bonk.gif" align="right" width="20%">  
     </details>
 </div>
 
